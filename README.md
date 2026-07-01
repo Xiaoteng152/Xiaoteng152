@@ -24,7 +24,9 @@ Building warm, useful software with **Electron**, **Next.js**, and **Supabase**.
 
 </div>
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -58,6 +60,8 @@ Building warm, useful software with **Electron**, **Next.js**, and **Supabase**.
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -77,14 +81,4 @@ Building warm, useful software with **Electron**, **Next.js**, and **Supabase**.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaoteng152&theme=github-light&bg_color=fff7ed&color=92400e&line=d97706&point=ea580c&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-
-### 💡 "First, solve the problem. Then, write the code." — John Johnson
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,5,7,9&height=100&section=footer"/>
-
 </div>
