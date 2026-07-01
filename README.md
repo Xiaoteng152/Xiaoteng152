@@ -26,7 +26,7 @@ const kiiro = {
 ```
 
 - 🔭 Currently working on **AI Research Tools** with LangGraph & Next.js
-- 🌱 Learning **Rust** for high-performance systems
+- 🌱 Building with **Electron, Next.js, and Supabase**
 - 💬 Ask me about **React, Next.js, Python, TypeScript**
 - ⚡ Fun fact: I believe good code is like good coffee — **strong and clean**
 
@@ -34,38 +34,15 @@ const kiiro = {
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="25%">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,rust,tailwind&perline=3" />
-
-</td>
-<td align="center" width="25%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi&perline=2" />
-
-</td>
-<td align="center" width="25%">
-
-**Database & Cloud**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,vercel&perline=2" />
-
-</td>
-<td align="center" width="25%">
-
-**Tools & Others**
-
-<img src="https://skillicons.dev/icons?i=git,docker,linux&perline=2" />
-
-</td>
-</tr>
-</table>
+![Backend](https://img.shields.io/badge/Backend-4B5563?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -78,14 +55,6 @@ const kiiro = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Xiaoteng152&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Xiaoteng152&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 </div>
 
 ---
