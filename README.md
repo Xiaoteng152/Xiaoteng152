@@ -20,7 +20,7 @@
 
 **Full Stack Developer / AI Agent Builder**
 
-Building warm, useful software with **Electron**, **Next.js**, and **Supabase**.
+Building warm, useful software with **React**, **Next.js**, and **Supabase**.
 
 </div>
 
@@ -32,14 +32,14 @@ Building warm, useful software with **Electron**, **Next.js**, and **Supabase**.
 
 ### 💼 Experience
 
-**yuanXiang**  
-`AI Agent` `Full Stack`
+**Yuanxiang**  
+`Full Stack`
 
 **Tencent Music Entertainment**  
 `Frontend` `Backend`
 
 **ByteDance**  
-`Backend` `Infrastructure`
+`Frontend`
 
 </td>
 <td width="50%" valign="top">
