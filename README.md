@@ -67,8 +67,8 @@ Building warm, useful software with **Electron**, **Next.js**, and **Supabase**.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xiaoteng152&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Kiiro GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoteng152&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiaoteng152&theme=gruvbox" alt="Kiiro GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xiaoteng152&theme=gruvbox" alt="Top Languages" />
 </div>
 
 <div align="center">
