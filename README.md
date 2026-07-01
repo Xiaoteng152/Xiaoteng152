@@ -24,7 +24,7 @@ Building warm, useful software with **Electron**, **Next.js**, and **Supabase**.
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
