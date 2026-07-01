@@ -1,12 +1,13 @@
 <div align="center">
 
-# Hey there! I'm Hasmokan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hey there! I'm Kiiro キイロ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <p>
-  <a href="mailto:hasmodream@gmail.com"><img src="https://img.shields.io/badge/Email-hasmodream%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=hasmokan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="mailto:gusuchixue@gmail.com"><img src="https://img.shields.io/badge/Email-gusuchixue%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/tengg886"><img src="https://img.shields.io/badge/X-%40tengg886-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Xiaoteng152&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
@@ -16,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const hasmokan = {
+const kiiro = {
   location: "Earth 🌏",
   roles: ["Full Stack Developer", "Open Source Contributor"],
   currentFocus: "Building AI-powered applications",
@@ -71,12 +72,12 @@ const hasmokan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasmokan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Hasmokan GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmokan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xiaoteng152&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Kiiro GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoteng152&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hasmokan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Xiaoteng152&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -84,7 +85,7 @@ const hasmokan = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=hasmokan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Xiaoteng152&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -92,7 +93,7 @@ const hasmokan = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasmokan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaoteng152&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
